@@ -1165,3 +1165,59 @@ https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="Futbol1.ua" tvg-logo="https://i.imgur.com/J1VuYAB.png" group-title="Sport", Футбол 1 (576p) [Not 24/7]
 https://95-213-224-183.livesports24.online/uafootballua1.m3u8
+#EXTINF: -1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-logo="https://i.imgur.com/CwwRn4b.png" group-title="Arabic", 2M Monde (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
+#EXTINF: -1 tvg-id="3eeshAlAanTV.ae" tvg-name="3eesh Al Aan TV" tvg-logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="Arabic", 3eesh Al Aan TV
+https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
+#EXTINF: -1 tvg-id="Abu Dhabi Drama" tvg-name="Abu Dhabi Drama" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="Arabic", Abu Dhabi Drama (1080p)
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="Abu Dhabi TV" tvg-name="Abu Dhabi TV" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="Arabic", Abu Dhabi TV (1080p)
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
+#EXTINF: -1 tvg-id="AfriqueMedia.cm" tvg-name="Afrique Media" group-title="Arabic", Afrique Media
+https://stream-11.dc3.dailymotion.com/sec(dgo7N3WuCXm9a9JmNQTDDLdiK51g1rKfV8nVNh4JciA)/dm/3/x5dk3kj/d/live-3.m3u8
+#EXTINF: -1 tvg-id="Al Aan TV" tvg-name="Al Aan TV" tvg-logo="https://i.imgur.com/6WiXPd9.png" group-title="Arabic", Al Aan TV (540p)
+https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
+#EXTINF: -1 tvg-id="AlAoula.ma" tvg-name="Al Aoula" tvg-logo="https://i.imgur.com/ZFHjIVU.png" group-title="Arabic", Al Aoula (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+#EXTINF: -1 tvg-id="AlAoulaLaayoune.ma" tvg-name="Al Aoula Laayoune" tvg-logo="https://i.imgur.com/ZFHjIVU.png" group-title="Arabic", Al Aoula Laayoune (360p)
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF: -1 tvg-id="AlAoulaLaayoune.ma" tvg-name="Al Aoula Laayoune" tvg-logo="https://i.imgur.com/ZFHjIVU.png" group-title="Arabic", Al Aoula Laayoune (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF: -1 tvg-id="Al Maghribia ARB" tvg-name="Al Maghribia ARB" tvg-logo="https://i.imgur.com/ZlmQSBl.png" group-title="Arabic", Al Maghribia (360p)
+http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF: -1 tvg-id="AlMaghribia.ma" tvg-name="Al Maghribia" tvg-logo="https://i.imgur.com/ZlmQSBl.png" group-title="Arabic", Al Maghribia (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF: -1 tvg-id="AlhiwarTV.uk" tvg-name="Alhiwar TV" tvg-logo="https://i.imgur.com/ooiJwD5.png" group-title="Arabic", Alhiwar TV (1080p)
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="Assadissa.ma" tvg-name="Assadissa" tvg-logo="https://i.imgur.com/VQUrMjE.png" group-title="Arabic", Assadissa (360p)
+http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF: -1 tvg-id="Assadissa.ma" tvg-name="Assadissa" tvg-logo="https://i.imgur.com/VQUrMjE.png" group-title="Arabic", Assadissa (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF: -1 tvg-id="Athaqafia.ma" tvg-name="Athaqafia" tvg-logo="https://i.imgur.com/FvgdLdG.png" group-title="Arabic", Athaqafia (360p)
+http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF: -1 tvg-id="Athaqafia.ma" tvg-name="Athaqafia" tvg-logo="https://i.imgur.com/FvgdLdG.png" group-title="Arabic", Athaqafia (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF: -1 tvg-id="DubaiOne.ae" tvg-name="Dubai One" group-title="Arabic", Dubai One (720p)
+https://ch.iptvmate.net/f5d063ba7b6f6a5acbb3dd649ecf38d8.m3u8
+#EXTINF: -1 tvg-id="Dubai One" tvg-name="Dubai One" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="Arabic", Dubai One (1080p)
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="MBC" tvg-name="MBC" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Arabic", MBC (1080p)
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
+#EXTINF: -1 tvg-id="MBC 4" tvg-name="MBC 4" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="Arabic", MBC 4 (1080p)
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF: -1 tvg-id="MBC 5" tvg-name="MBC 5" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="Arabic", MBC 5 (1080p)
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF: -1 tvg-id="MBC Bollywood" tvg-name="MBC Bollywood" tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="Arabic", MBC Bollywood (1080p)
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF: -1 tvg-id="MBC Drama" tvg-name="MBC Drama" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Arabic", MBC Drama (1080p)
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF: -1 tvg-id="Sat7Arabic.cy" tvg-name="Sat 7 Arabic" tvg-logo="https://i.imgur.com/xvJw3qt.png" group-title="Arabic", Sat 7 Arabic (720p)
+https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
+#EXTINF: -1 tvg-id="Sat7Kids.cy" tvg-name="Sat 7 Kids" group-title="Arabic", Sat 7 Kids (720p)
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+#EXTINF: -1 tvg-id="Tamazight.ma" tvg-name="Tamazight" group-title="Arabic", Tamazight (360p)
+http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF: -1 tvg-id="Tamazight.ma" tvg-name="Tamazight" tvg-logo="https://i.imgur.com/uC6IF9P.png" group-title="Arabic", Tamazight (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF: -1 tvg-id="TeleMaroc.ma" tvg-name="Télé Maroc" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="Arabic", Télé Maroc (1080p)
+https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
