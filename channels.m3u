@@ -1431,355 +1431,71 @@ http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF: -1 tvg-id="TeleMaroc.ma" tvg-name="Télé Maroc" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="Arabic", Télé Maroc (1080p)
 https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
-#EXTINF: -1 tvg-logo="http://i.imgur.com/x33MwPN.png" group-title="All", Retrô Cartoon
-http://stmv2.srvstm.com:1935/cartoonr/cartoonr/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF: -1 tvg-logo="http://s30.postimg.org/dmcu8wn69/Baby_TV.png" group-title="All", Baby TV
-http://listaiptv.brcs.ml:8080/SD_BOOMERANG/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-#EXTINF: -1 tvg-id="Tooncast" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="All", Tooncast
-http://listaiptv.brcs.ml:8080/SD_TOONCAST/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-#EXTINF: -1 tvg-id="Nick" tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="All", Nickelodeon
-http://tv.ec.cx:1935/redecanais-stream-nick/myStream/chunklist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF: -1 tvg-id="Nick" tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="All", Nickelodeon HD
-http://listaiptv.brcs.ml:8080/SD_NICKELODEON/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-#EXTINF: -1 tvg-id="Nick Jr." tvg-logo="http://s20.postimg.org/x0fqbxhu1/Nick_Jr.png" group-title="All", Nick Jr.
-http://listaiptv.brcs.ml:8080/SD_NICK_JR/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-#EXTINF: -1 tvg-id="Gloob [Brazil]" tvg-logo="http://s20.postimg.org/sn3eoa4y1/Gloob.png" group-title="All", Gloob
-http://listaiptv.brcs.ml:8080/SD_GLOOB/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-#EXTINF: -1 tvg-id="Gloob [Brazil]" tvg-logo="http://s20.postimg.org/sn3eoa4y1/Gloob.png" group-title="All", Gloob HD
-http://listaiptv.brcs.ml:8080/HD_GLOOB/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-#EXTINF: -1 tvg-id="Cartoon Network" tvg-logo="http://s20.postimg.org/x27jhejrh/Cartoon_Network.png" group-title="All", Cartoon Network
-http://95.141.35.104:8081/look/cartoon/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF: -1 tvg-id="Cartoon Network" tvg-logo="http://s20.postimg.org/x27jhejrh/Cartoon_Network.png" group-title="All", Cartoon Network HD
-http://listaiptv.brcs.ml:8080/HD_CARTOON_NETWORK/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-#EXTINF: -1 tvg-id="Disney XD" tvg-logo="http://s20.postimg.org/y2714ldop/Disney_XD.png" group-title="All", Disney XD
-http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/chunklist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF: -1 tvg-id="Disney XD" tvg-logo="http://s20.postimg.org/y2714ldop/Disney_XD.png" group-title="All", Disney XD HD
-http://listaiptv.brcs.ml:8080/SD_DISNEY_XD/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-#EXTINF: -1 tvg-id="Discovery Kids" tvg-logo="http://s20.postimg.org/o9v67go09/Discovery_Kids.png" group-title="All", Discovery Kids
-http://95.141.35.104:8081/look/discoverykids1/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF: -1 tvg-id="Discovery Kids" tvg-logo="http://s20.postimg.org/o9v67go09/Discovery_Kids.png" group-title="All", Discovery Kids HD
-http://listaiptv.brcs.ml:8080/HD_DISCOVERY_KIDS/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-#EXTINF: -1 tvg-id="Disney Junior" tvg-logo="http://s20.postimg.org/fb53ufj49/Disney_Jr.png" group-title="All", Disney Junior
-http://listaiptv.brcs.ml:8080/SD_DISNEY_JR/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-#EXTINF: -1 tvg-id="Disney Channel" tvg-logo="http://s20.postimg.org/p5rnmwxot/Disney_Channel.png" group-title="All", Disney Channel
-http://listaiptv.brcs.ml:8080/SD_DISNEY/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-#EXTINF: -1 tvg-id="Disney Channel" tvg-logo="http://s20.postimg.org/p5rnmwxot/Disney_Channel.png" group-title="All", Disney Channel HD
-http://listaiptv.brcs.ml:8080/HD_DISNEY/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-#EXTINF: -1 group-title="All", beINSports-fr1
-http://iptv.am000.tv:8000/live/add17/add17/16.ts
-#EXTINF: -1 group-title="All", beINSports-fr2
-http://iptv.am000.tv:8000/live/add17/add17/17.ts
-#EXTINF: -1 group-title="All", BEINSPORTS-FR3
-http://iptv.am000.tv:8000/live/add17/add17/566.ts
-#EXTINF: -1 group-title="All", Alkas-1
-http://iptv.am000.tv:8000/live/add17/add17/73.ts
-#EXTINF: -1 group-title="All", Alkas-2
-http://iptv.am000.tv:8000/live/add17/add17/405.ts
-#EXTINF: -1 group-title="All", Alkas-3
-http://iptv.am000.tv:8000/live/add17/add17/104.ts
-#EXTINF: -1 group-title="All", Alkas-4
-http://iptv.am000.tv:8000/live/add17/add17/315.ts
-#EXTINF: -1 group-title="All", AD-Sports1
-http://iptv.am000.tv:8000/live/add17/add17/89.ts
-#EXTINF: -1 group-title="All", AD-SPORTS2
-http://iptv.am000.tv:8000/live/add17/add17/114.ts
-#EXTINF: -1 group-title="All", AD-Sports3
-http://iptv.am000.tv:8000/live/add17/add17/90.ts
-#EXTINF: -1 group-title="All", DUBAISPORT1
-http://iptv.am000.tv:8000/live/add17/add17/648.ts
-#EXTINF: -1 group-title="All", DubaiSport-3
-http://iptv.am000.tv:8000/live/add17/add17/646.ts
-#EXTINF: -1 group-title="All", DUBAISPORT-4
-http://iptv.am000.tv:8000/live/add17/add17/647.ts
-#EXTINF: -1 group-title="All", EUROSPORT-eng
-http://iptv.am000.tv:8000/live/add17/add17/357.ts
-#EXTINF: -1 group-title="All", MBCProSports1
-http://iptv.am000.tv:8000/live/add17/add17/40.ts
-#EXTINF: -1 group-title="All", MBCProSports2
-http://iptv.am000.tv:8000/live/add17/add17/39.ts
-#EXTINF: -1 group-title="All", osn-yahala-hd
-http://iptv.am000.tv:8000/live/add17/add17/383.ts
-#EXTINF: -1 group-title="All", OSN-MBC+DRAMA
-http://iptv.am000.tv:8000/live/add17/add17/21.ts
-#EXTINF: -1 group-title="All", OSN-Yahala-Shabab
-http://iptv.am000.tv:8000/live/add17/add17/24.ts
-#EXTINF: -1 group-title="All", OSN-AlYoum
-http://iptv.am000.tv:8000/live/add17/add17/384.ts
-#EXTINF: -1 group-title="All", OSN-CINEMA1
-http://iptv.am000.tv:8000/live/add17/add17/153.ts
-#EXTINF: -1 group-title="All", OSN_Cinma_2
-http://iptv.am000.tv:8000/live/add17/add17/403.ts
-#EXTINF: -1 group-title="All", OSN-MOVIES-ACTION
-http://iptv.am000.tv:8000/live/add17/add17/26.ts
-#EXTINF: -1 group-title="All", OSN-MOVIES-ACTION+2
-http://iptv.am000.tv:8000/live/add17/add17/18.ts
-#EXTINF: -1 group-title="All", OSN-MOVIES-HD
-http://iptv.am000.tv:8000/live/add17/add17/25.ts
-#EXTINF: -1 group-title="All", OSN-MOVIES-DRAMA
-http://iptv.am000.tv:8000/live/add17/add17/19.ts
-#EXTINF: -1 group-title="All", OSN-MOVIES-premier
-http://iptv.am000.tv:8000/live/add17/add17/323.ts
-#EXTINF: -1 group-title="All", OSN-MOVIES-premier2
-http://iptv.am000.tv:8000/live/add17/add17/412.ts
-#EXTINF: -1 group-title="All", OSN-Movie-FESTIVAL
-http://iptv.am000.tv:8000/live/add17/add17/27.ts
-#EXTINF: -1 group-title="All", OSN-MOVIES-Comedy
-http://iptv.am000.tv:8000/live/add17/add17/292.ts
-#EXTINF: -1 group-title="All", OSN-StarMovie
-http://iptv.am000.tv:8000/live/add17/add17/454.ts
-#EXTINF: -1 group-title="All", OSN_Starworld
-http://iptv.am000.tv:8000/live/add17/add17/151.ts
-#EXTINF: -1 group-title="All", OSN-BoxOffice
-http://iptv.am000.tv:8000/live/add17/add17/399.ts
-#EXTINF: -1 group-title="All", OSN-BoxOffice1
-http://iptv.am000.tv:8000/live/add17/add17/109.ts
-#EXTINF: -1 group-title="All", OSN-FIGHT-HD
-http://iptv.am000.tv:8000/live/add17/add17/625.ts
-#EXTINF: -1 group-title="All", Bein-Movies1
-http://iptv.am000.tv:8000/live/add17/add17/387.ts
-#EXTINF: -1 group-title="All", Bein-Movies2
-http://iptv.am000.tv:8000/live/add17/add17/343.ts
-#EXTINF: -1 group-title="All", Bein-Movies3
-http://iptv.am000.tv:8000/live/add17/add17/534.ts
-#EXTINF: -1 group-title="All", OSN-Disney
-http://iptv.am000.tv:8000/live/add17/add17/404.ts
-#EXTINF: -1 group-title="All", OSN-movie-kids
-http://iptv.am000.tv:8000/live/add17/add17/624.ts
-#EXTINF: -1 group-title="All", OSN-NATGEOWILD
-http://iptv.am000.tv:8000/live/add17/add17/626.ts
-#EXTINF: -1 group-title="All", Nat-Geo-AD
-http://iptv.am000.tv:8000/live/add17/add17/82.ts
-#EXTINF: -1 group-title="All", Animal-Planet
-http://iptv.am000.tv:8000/live/add17/add17/91.ts
-#EXTINF: -1 group-title="All", DISCOVERY-CH
-http://iptv.am000.tv:8000/live/add17/add17/124.ts
-#EXTINF: -1 group-title="All", ART-AFLAM1
-http://iptv.am000.tv:8000/live/add17/add17/33.ts
-#EXTINF: -1 group-title="All", ART-AFLAM2
-http://iptv.am000.tv:8000/live/add17/add17/32.ts
-#EXTINF: -1 group-title="All", ART-CINEMA
-http://iptv.am000.tv:8000/live/add17/add17/76.ts
-#EXTINF: -1 group-title="All", ART-Hekayat1
-http://iptv.am000.tv:8000/live/add17/add17/35.ts
-#EXTINF: -1 group-title="All", ART-Hekayat2
-http://iptv.am000.tv:8000/live/add17/add17/34.ts
-#EXTINF: -1 group-title="All", EUROSPORT-1
-http://iptv.am000.tv:8000/live/add17/add17/149.ts
-#EXTINF: -1 group-title="All", EUROSPORT-FR
-http://iptv.am000.tv:8000/live/add17/add17/150.ts
-#EXTINF: -1 group-title="All", Sharjah-Sport
-http://iptv.am000.tv:8000/live/add17/add17/127.ts
-#EXTINF: -1 group-title="All", Sharjah
-http://iptv.am000.tv:8000/live/add17/add17/126.ts
-#EXTINF: -1 group-title="All", Palestine
-http://iptv.am000.tv:8000/live/add17/add17/141.ts
-#EXTINF: -1 group-title="All", PalestineToday
-http://iptv.am000.tv:8000/live/add17/add17/459.ts
-#EXTINF: -1 group-title="All", AL-NASS
-http://iptv.am000.tv:8000/live/add17/add17/147.ts
-#EXTINF: -1 group-title="All", Abu_Dhabi
-http://iptv.am000.tv:8000/live/add17/add17/145.ts
-#EXTINF: -1 group-title="All", TRT-arabic
-http://iptv.am000.tv:8000/live/add17/add17/390.ts
-#EXTINF: -1 group-title="All", Zaytoona
-http://iptv.am000.tv:8000/live/add17/add17/393.ts
-#EXTINF: -1 group-title="All", MTV-Libanon
-http://iptv.am000.tv:8000/live/add17/add17/117.ts
-#EXTINF: -1 group-title="All", Qatar
-http://iptv.am000.tv:8000/live/add17/add17/439.ts
-#EXTINF: -1 group-title="All", CBC-tv
-http://iptv.am000.tv:8000/live/add17/add17/106.ts
-#EXTINF: -1 group-title="All", TNNTunisia
-http://iptv.am000.tv:8000/live/add17/add17/112.ts
-#EXTINF: -1 group-title="All", Cima
-http://iptv.am000.tv:8000/live/add17/add17/118.ts
-#EXTINF: -1 group-title="All", Future
-http://iptv.am000.tv:8000/live/add17/add17/120.ts
-#EXTINF: -1 group-title="All", OTV-Lebanon
-http://iptv.am000.tv:8000/live/add17/add17/92.ts
-#EXTINF: -1 group-title="All", Syria-ikhbaria
-http://iptv.am000.tv:8000/live/add17/add17/102.ts
-#EXTINF: -1 group-title="All", Syria-Aloula
-http://iptv.am000.tv:8000/live/add17/add17/101.ts
-#EXTINF: -1 group-title="All", Syria
-http://iptv.am000.tv:8000/live/add17/add17/99.ts
-#EXTINF: -1 group-title="All", Nile-Comedy
-http://iptv.am000.tv:8000/live/add17/add17/94.ts
-#EXTINF: -1 group-title="All", Nile-cinema
-http://iptv.am000.tv:8000/live/add17/add17/95.ts
-#EXTINF: -1 group-title="All", NILE-DRAMA
-http://iptv.am000.tv:8000/live/add17/add17/410.ts
-#EXTINF: -1 group-title="All", Syria-Education
-http://iptv.am000.tv:8000/live/add17/add17/65.ts
-#EXTINF: -1 group-title="All", ZEE-Aflam
-http://iptv.am000.tv:8000/live/add17/add17/49.ts
-#EXTINF: -1 group-title="All", Zee-Alwan
-http://iptv.am000.tv:8000/live/add17/add17/50.ts
-#EXTINF: -1 group-title="All", SyrianDrama
-http://iptv.am000.tv:8000/live/add17/add17/51.ts
-#EXTINF: -1 group-title="All", Baraem
-http://iptv.am000.tv:8000/live/add17/add17/54.ts
-#EXTINF: -1 group-title="All", Rotana-Classic
-http://iptv.am000.tv:8000/live/add17/add17/56.ts
-#EXTINF: -1 group-title="All", Rotana-Cinema
-http://iptv.am000.tv:8000/live/add17/add17/57.ts
-#EXTINF: -1 group-title="All", Rotana
-http://iptv.am000.tv:8000/live/add17/add17/58.ts
-#EXTINF: -1 group-title="All", OOD
-http://iptv.am000.tv:8000/live/add17/add17/42.ts
-#EXTINF: -1 group-title="All", MBC-1
-http://iptv.am000.tv:8000/live/add17/add17/48.ts
-#EXTINF: -1 group-title="All", MBC-2
-http://iptv.am000.tv:8000/live/add17/add17/47.ts
-#EXTINF: -1 group-title="All", MBC-3
-http://iptv.am000.tv:8000/live/add17/add17/46.ts
-#EXTINF: -1 group-title="All", MBC-4
-http://iptv.am000.tv:8000/live/add17/add17/45.ts
-#EXTINF: -1 group-title="All", MBC-MAX
-http://iptv.am000.tv:8000/live/add17/add17/43.ts
-#EXTINF: -1 group-title="All", MBC-DRAMA
-http://iptv.am000.tv:8000/live/add17/add17/44.ts
-#EXTINF: -1 group-title="All", MBC-ACTION
-http://iptv.am000.tv:8000/live/add17/add17/241.ts
-#EXTINF: -1 group-title="All", LBC
-http://iptv.am000.tv:8000/live/add17/add17/61.ts
-#EXTINF: -1 group-title="All", Iraqiya
-http://iptv.am000.tv:8000/live/add17/add17/111.ts
-#EXTINF: -1 group-title="All", Baghdad
-http://iptv.am000.tv:8000/live/add17/add17/435.ts
-#EXTINF: -1 group-title="All", Iraqia-Sport
-http://iptv.am000.tv:8000/live/add17/add17/148.ts
-#EXTINF: -1 group-title="All", AlSharqiya
-http://iptv.am000.tv:8000/live/add17/add17/612.ts
-#EXTINF: -1 group-title="All", Sharqiya-News
-http://iptv.am000.tv:8000/live/add17/add17/396.ts
-#EXTINF: -1 group-title="All", Dubai-One
-http://iptv.am000.tv:8000/live/add17/add17/63.ts
-#EXTINF: -1 group-title="All", DUBAI
-http://iptv.am000.tv:8000/live/add17/add17/64.ts
-#EXTINF: -1 group-title="All", Cbc-drama
-http://iptv.am000.tv:8000/live/add17/add17/67.ts
-#EXTINF: -1 group-title="All", alarabiya
-http://iptv.am000.tv:8000/live/add17/add17/71.ts
-#EXTINF: -1 group-title="All", AL-MANAR
-http://iptv.am000.tv:8000/live/add17/add17/74.ts
-#EXTINF: -1 group-title="All", ROYA
-http://iptv.am000.tv:8000/live/add17/add17/81.ts
-#EXTINF: -1 group-title="All", Jordan-tv
-http://iptv.am000.tv:8000/live/add17/add17/83.ts
-#EXTINF: -1 group-title="All", Sama-Jordan
-http://iptv.am000.tv:8000/live/add17/add17/445.ts
-#EXTINF: -1 group-title="All", Jordan-Sport
-http://iptv.am000.tv:8000/live/add17/add17/346.ts
-#EXTINF: -1 group-title="All", ANN-news
-http://iptv.am000.tv:8000/live/add17/add17/155.ts
-#EXTINF: -1 group-title="All", AL-JAZEERA
-http://iptv.am000.tv:8000/live/add17/add17/87.ts
-#EXTINF: -1 group-title="All", aljazeera_mubasher
-http://iptv.am000.tv:8000/live/add17/add17/88.ts
-#EXTINF: -1 group-title="All", NBN
-http://iptv.am000.tv:8000/live/add17/add17/140.ts
-#EXTINF: -1 group-title="All", BBC-Arabia
-http://iptv.am000.tv:8000/live/add17/add17/100.ts
-#EXTINF: -1 group-title="All", Saudi-Quran
-http://iptv.am000.tv:8000/live/add17/add17/446.ts
-#EXTINF: -1 group-title="All", Al-Hadath
-http://iptv.am000.tv:8000/live/add17/add17/72.ts
-#EXTINF: -1 group-title="All", Oman
-http://iptv.am000.tv:8000/live/add17/add17/488.ts
-#EXTINF: -1 group-title="All", MTV
-http://iptv.am000.tv:8000/live/add17/add17/486.ts
-#EXTINF: -1 group-title="All", Quran-TV
-http://iptv.am000.tv:8000/live/add17/add17/628.ts
-#EXTINF: -1 group-title="All", Quran-Alfateh
-http://iptv.am000.tv:8000/live/add17/add17/629.ts
-#EXTINF: -1 group-title="All", Mecca
-http://iptv.am000.tv:8000/live/add17/add17/107.ts
-#EXTINF: -1 group-title="All", IQRAA-TV
-http://iptv.am000.tv:8000/live/add17/add17/115.ts
-#EXTINF: -1 group-title="All", Al-Majd
-http://iptv.am000.tv:8000/live/add17/add17/444.ts
-#EXTINF: -1 group-title="All", Almajd-Quran
-http://iptv.am000.tv:8000/live/add17/add17/425.ts
-#EXTINF: -1 group-title="All", MAJD-KIDS
-http://iptv.am000.tv:8000/live/add17/add17/421.ts
-#EXTINF: -1 group-title="All", Fatafeat
-http://iptv.am000.tv:8000/live/add17/add17/483.ts
-#EXTINF: -1 group-title="All", Toyor-AlJanah
-http://iptv.am000.tv:8000/live/add17/add17/437.ts
-#EXTINF: -1 group-title="All", Jeem
-http://iptv.am000.tv:8000/live/add17/add17/119.ts
-#EXTINF: -1 group-title="All", Spacetoon
-http://iptv.am000.tv:8000/live/add17/add17/80.ts
-#EXTINF: -1 group-title="All", CN-ARABIA
-http://iptv.am000.tv:8000/live/add17/add17/68.ts
-#EXTINF: -1 group-title="All", AJYAL
-http://iptv.am000.tv:8000/live/add17/add17/146.ts
-#EXTINF: -1 group-title="All", LCD-Aflam
-http://iptv.am000.tv:8000/live/add17/add17/440.ts
-#EXTINF: -1 group-title="All", Russia-Al-Yaum
-http://iptv.am000.tv:8000/live/add17/add17/450.ts
-#EXTINF: -1 group-title="All", ADTV
-http://iptv.am000.tv:8000/live/add17/add17/419.ts
-#EXTINF: -1 group-title="All", Russia-Today
-http://iptv.am000.tv:8000/live/add17/add17/442.ts
-#EXTINF: -1 group-title="All", BeinSport-Sd1
-http://iptv.am000.tv:8000/live/add17/add17/293.ts
-#EXTINF: -1 group-title="All", BeinSport-Sd2
-http://iptv.am000.tv:8000/live/add17/add17/294.ts
-#EXTINF: -1 group-title="All", BeinSport-Sd3
-http://iptv.am000.tv:8000/live/add17/add17/295.ts
-#EXTINF: -1 group-title="All", BeinSport-Sd4
-http://iptv.am000.tv:8000/live/add17/add17/296.ts
-#EXTINF: -1 group-title="All", BeinSport-Sd5
-http://iptv.am000.tv:8000/live/add17/add17/297.ts
-#EXTINF: -1 group-title="All", BeinSport-Sd6
-http://iptv.am000.tv:8000/live/add17/add17/298.ts
-#EXTINF: -1 group-title="All", BeinSport-Sd7
-http://iptv.am000.tv:8000/live/add17/add17/299.ts
-#EXTINF: -1 group-title="All", BeinSport-Sd8
-http://iptv.am000.tv:8000/live/add17/add17/300.ts
-#EXTINF: -1 group-title="All", BeinSport-Sd9
-http://iptv.am000.tv:8000/live/add17/add17/301.ts
-#EXTINF: -1 group-title="All", BeinSport-Sd10
-http://iptv.am000.tv:8000/live/add17/add17/302.ts
-#EXTINF: -1 group-title="All", EN:BeinSport-11
-http://iptv.am000.tv:8000/live/add17/add17/575.ts
-#EXTINF: -1 group-title="All", EN:BeinSport-12
-http://iptv.am000.tv:8000/live/add17/add17/577.ts
-#EXTINF: -1 group-title="All", FR:BEINSPORT-13
-http://iptv.am000.tv:8000/live/add17/add17/632.ts
-#EXTINF: -1 group-title="All", FR:BEINSPORT-14
-http://iptv.am000.tv:8000/live/add17/add17/633.ts
-#EXTINF: -1 group-title="All", FR:BEINSPORT-15
-http://iptv.am000.tv:8000/live/add17/add17/634.ts
-#EXTINF: -1 group-title="All", FR:BEINSPORT-16
-http://iptv.am000.tv:8000/live/add17/add17/635.ts
-#EXTINF: -1 group-title="All", Sky-Atlantic
-http://iptv.am000.tv:8000/live/add17/add17/441.ts
-#EXTINF: -1 group-title="All", SkySport-1
-http://iptv.am000.tv:8000/live/add17/add17/443.ts
-#EXTINF: -1 group-title="All", KANAL7-HD
-http://iptv.am000.tv:8000/live/add17/add17/422.ts
-#EXTINF: -1 group-title="All", KIDS-MOVIE1
-http://iptv.am000.tv:8000/live/add17/add17/627.ts
-#EXTINF: -1 group-title="All", KIDS-MOVIE2
-http://iptv.am000.tv:8000/live/add17/add17/639.ts
-#EXTINF: -1 group-title="All", KIDS-MOVIE3
-http://iptv.am000.tv:8000/live/add17/add17/640.ts
-#EXTINF: -1 group-title="All", KIDS-MOVIE4
-http://iptv.am000.tv:8000/live/add17/add17/641.ts
-#EXTINF: -1 group-title="All", -1
-http://iptv.am000.tv:8000/live/add17/add17/592.ts
-#EXTINF: -1 group-title="All", -2
-http://iptv.am000.tv:8000/live/add17/add17/424.ts
-#EXTINF: -1 group-title="All", -3
-http://iptv.am000.tv:8000/live/add17/add17/423.ts
-#EXTINF: -1 group-title="All", -4
-http://iptv.am000.tv:8000/live/add17/add17/608.ts
-#EXTINF: -1 group-title="All", -5
-http://iptv.am000.tv:8000/live/add17/add17/609.ts
-#EXTINF: -1 group-title="All", -6
-http://iptv.am000.tv:8000/live/add17/add17/610.ts
-#EXTINF: -1 group-title="All", -7
-http://iptv.am000.tv:8000/live/add17/add17/611.ts
+#EXTINF: -1 tvg-id="AntenneReunion.fr" tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="France", Antenne Réunion (720p) [Not 24/7]
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+#EXTINF: -1 tvg-id="ARTEFrancais.fr" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="France", ARTE Français (720p) [Geo-blocked]
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF: -1 tvg-id="BFMBusiness.fr" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="France", BFM Business (480p)
+https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/master.m3u8
+#EXTINF: -1 tvg-id="BFMLyon.fr" tvg-logo="https://i.ibb.co/8Y3FB3B/LYON.png" group-title="France", BFM Lyon (480p)
+https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/master.m3u8
+#EXTINF: -1 tvg-id="BFMParis.fr" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="France", BFM Paris (480p)
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/master.m3u8
+#EXTINF: -1 tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France", BFMTV (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xgz4t1
+#EXTINF: -1 tvg-id="BloombergTVEurope.us" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="France", Bloomberg TV Europe (720p)
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF: -1 tvg-id="BoingFrance.it" tvg-logo="https://i.imgur.com/mIbmYs1.png" group-title="France", Boing France (720p) [Not 24/7]
+http://flusonic-1.platinum-tv.com/boing/index.m3u8?token=test
+#EXTINF: -1 tvg-id="CentralTV.fr" tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg" group-title="France", Central TV (720p) [Not 24/7]
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF: -1 tvg-id="EuronewsFrancais.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="France", Euronews Français (720p)
+https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF: -1 tvg-id="France2.fr" tvg-logo="https://i.postimg.cc/SKxgxTLz/fr2.png" group-title="France", France 2 (720p) [Not 24/7]
+http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
+#EXTINF: -1 tvg-id="France3.fr" tvg-logo="https://i.postimg.cc/JzmT94Gx/fr3.png" group-title="France", France 3 (720p) [Not 24/7]
+http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
+#EXTINF: -1 tvg-id="France4.fr" tvg-logo="https://i.postimg.cc/4x58Zkcg/fr4.png" group-title="France", France 4 (720p) [Geo-blocked]
+http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
+#EXTINF: -1 tvg-id="France5.fr" tvg-logo="https://i.postimg.cc/8zjFkLJz/fr5.png" group-title="France", France 5 (720p) [Not 24/7]
+http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
+#EXTINF: -1 tvg-id="France24Francais.fr" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="France", France 24 Français (1080p)
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF: -1 tvg-id="FranceInter.fr" tvg-logo="https://i.imgur.com/PYqQyRv.png" group-title="France", France Inter (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCJldRgT_D7Am-ErRHQZ90uw/live
+#EXTINF: -1 tvg-id="LCI.fr" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="France", LCI (720p)
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF: -1 tvg-id="RTFrance.ru" tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="France", RT France (1080p)
+https://rt-fra.gcdn.co/live/rtfrance/playlist.m3u8
+#EXTINF: -1 tvg-id="FOX.us" tvg-logo="https://i.imgur.com/992gw0d.png" group-title="USA", Fox (1080p) [Geo-blocked]
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF: -1 tvg-id="WJBK.us" tvg-logo="https://i.imgur.com/EL9Bwtf.png" group-title="USA", FOX 2 Detroit MI (WJBK) (720p) [Not 24/7]
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WJBK-Monetizer.m3u8
+#EXTINF: -1 tvg-id="KTVUTV.us" tvg-logo="https://i.imgur.com/18isSVd.png" group-title="USA", FOX 2 San Francisco CA (KTVU) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTVU-Monetizer.m3u8
+#EXTINF: -1 tvg-id="324.es" tvg-logo="https://i.imgur.com/CnIVW9o.jpg" group-title="Spain", 3/24 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8
+#EXTINF: -1 tvg-id="7TVAndaluciaCordoba.es" tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320" group-title="Spain", 7 TV Andalucía (Córdoba) (720p) [Not 24/7]
+https://dcunilive265-lh.akamaihd.net/i/dclive_1@409360/master.m3u8
+#EXTINF: -1 tvg-id="25TV.es" tvg-logo="https://i.imgur.com/sADbx7S.png" group-title="Spain", 25 TV (480p) [Not 24/7]
+https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8
+#EXTINF: -1 tvg-id="101TVMalaga.es" tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="Spain", 101TV Malaga (1080p) [Not 24/7]
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+#EXTINF: -1 tvg-id="Canal24horas.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="Spain", Canal 24 horas (720p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC7QZIf0dta-XPXsp9Hv4dTw/live
+#EXTINF: -1 tvg-id="Canal33Madrid.es" tvg-logo="https://i.imgur.com/1zJpDIX.png" group-title="Spain", Canal 33 Madrid (720p) [Not 24/7]
+https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
+#EXTINF: -1 tvg-id="CanalSuper3.es" tvg-logo="https://i.imgur.com/kbgoyvg.png" group-title="Spain", Canal Super 3 (1080p) [Not 24/7]
+https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist.m3u8
+#EXTINF: -1 tvg-id="CongresodelosDiputados1.es" tvg-logo="https://i.imgur.com/2LAzcH8.jpg" group-title="Spain", Congreso de los Diputados 1 (360p)
+https://congresodirecto-f.akamaihd.net/i/congreso1_1@71529/master.m3u8
+#EXTINF: -1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Spain", DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF: -1 tvg-id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Spain", France 24 Español (1080p)
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+#EXTINF: -1 tvg-id="LaVoz24h.es" tvg-logo="https://i.imgur.com/Vp26cr1.jpg" group-title="Spain", La Voz 24h (720p)
+https://pull12.atresmedia.com/lavoz/master.m3u8
+#EXTINF: -1 tvg-id="PopularTVMelilla.es" tvg-logo="https://i.imgur.com/hwlTrtF.png" group-title="Spain", Popular TV Melilla (720p) [Not 24/7]
+http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
+#EXTINF: -1 tvg-id="Telemadrid.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemadrid-mediano.png" group-title="Spain", Telemadrid (720p)
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
