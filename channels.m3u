@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" group-title="Mama", 2MM MONDE
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_hy217612tge1f21j83/2m_monde.m3u8
-#EXTINF: -1 tvg-logo="http-user-agent=you9aapixx9" group-title="Mama", BEIN
+#EXTINF: -1 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" group-title="Mama", BEIN MONDE
 http://airmaxtv2022.online/airmaxtvbbeenn/hjzAl4jsV8/1432
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b6268e20-81f7-11ec-a187-014267425758/2779755/488522804.png" group-title="Mama", AR:Medi_1
 http://smartestv.vip:2095/ABHVYOP/2387998104/3053
