@@ -15,3 +15,5 @@ http://new-pro.tv:8080/Fernando/123321/70725?checkedby:iptvcat.com
 http://new-pro.tv:8080/Fernando/123321/70724?checkedby:iptvcat.com
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/2354b0b0-b69f-11ec-9b9d-3b448f8b2a86/3103026/541242816.png" group-title="France", TV5 Monde
 http://new-pro.tv:8080/Fernando/123321/70640?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/2354b0b0-b69f-11ec-9b9d-3b448f8b2a86/3103028/541242972.png" group-title="Arabe", NAT GEO DUBAI
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8?checkedby:iptvcat.com
