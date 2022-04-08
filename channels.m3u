@@ -9,3 +9,9 @@ http://red.ipfox.org:8080/amer/amer1234/34857?checkedby:iptvcat.com
 http://red.ipfox.org:8080/amer/amer1234/34858?checkedby:iptvcat.com
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/2354b0b0-b69f-11ec-9b9d-3b448f8b2a86/3101328/540778295.png" group-title="Maroc", MEDI1-TV HD
 http://red.ipfox.org:8080/amer/amer1234/34864?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/2354b0b0-b69f-11ec-9b9d-3b448f8b2a86/3103026/541242813.png" group-title="France", Nat Geo Wild HD
+http://new-pro.tv:8080/Fernando/123321/70725?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/2354b0b0-b69f-11ec-9b9d-3b448f8b2a86/3103026/541242815.png" group-title="France", Nat Geo HD
+http://new-pro.tv:8080/Fernando/123321/70724?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/2354b0b0-b69f-11ec-9b9d-3b448f8b2a86/3103026/541242816.png" group-title="France", TV5 Monde
+http://new-pro.tv:8080/Fernando/123321/70640?checkedby:iptvcat.com
