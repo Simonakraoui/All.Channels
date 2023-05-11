@@ -39,14 +39,16 @@ https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="RTArabic.ru" tvg-logo="https://content.osn.com/logo/channel/cropped/RUS.png" group-title="General", RT Arabic (1080p) [Geo-blocked]
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
-#EXTINF: -1 tvg-id="ABCNews.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="General", ABC News (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
-#EXTINF: -1 tvg-id="NBCNewsNowEvent2.us" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png" group-title="General", NBC News Now Event 2 (360p)
-https://nbcnews-lh.akamaihd.net/i/nbc_live12@187393/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV" tvg-logo="http://myserveriptv.com:2082/images/a4a73e3b96db3c888f3fee1519656ae9.png" group-title="United Kingdom",UK: ITV
+http://31.42.184.159:2082/lW8ba36rbPg1nZxi0/83bsD9sbKe5FE9k/212309
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 1" tvg-logo="http://myserveriptv.com:2082/images/cdb2264b8fb2b88ece2ebdbf0ae1a33f.png" group-title="United Kingdom",UK: BBC 1
+http://31.42.184.159:2082/lW8ba36rbPg1nZxi0/83bsD9sbKe5FE9k/16133
 #EXTINF: -1 tvg-id="CBSNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/512px-CBS_News_logo_%282020%29.svg.png" group-title="General", CBS News (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF: -1 tvg-id="EntertainmentTonight.us" tvg-logo="https://i.imgur.com/TXamgdB.png" group-title="General", Entertainment Tonight (1080p)
-https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 2" tvg-logo="http://myserveriptv.com:2082/images/234d1432bf436bb99ab08e3f6d0668fa.png" group-title="United Kingdom",UK: BBC 2
+http://31.42.184.159:2082/lW8ba36rbPg1nZxi0/83bsD9sbKe5FE9k/16135
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC News" tvg-logo="http://myserveriptv.com:2082/images/5160dcfd2906831f1a9dbc61a5fc35db.png" group-title="United Kingdom",UK: BBC News
+http://31.42.184.159:2082/lW8ba36rbPg1nZxi0/83bsD9sbKe5FE9k/104180
 #EXTINF: -1 tvg-id="FoxNewsChannel.us" tvg-logo="https://i.imgur.com/FJihT0Q.png" group-title="General", Fox News Channel (720p)
 http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
 #EXTINF: -1 tvg-id="FoxNewsNow.us" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="General", FOX News Now (720p)
@@ -125,75 +127,3 @@ http://94.130.180.175:8081/live/greektv/playlist.m3u8
 http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
 #EXTINF: -1 tvg-id="TV16Toronto.ca" tvg-logo="https://i.imgur.com/brxkNbw.png" group-title="Canada", TV 16 Toronto (720p) [Not 24/7]
 http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8
-#EXTINF: -1 group-title="Sport", [untitled]
-h t t p : / / 0 1 1 0 1 1 . o n e / l i v e / a r e n a a 2 2 3 3 / m a x x 2 2 3 3 / 2 7 . t s
-#EXTINF: -1 group-title="Sport", [untitled]
-h t t p : / / 0 1 1 0 1 1 . o n e / l i v e / a r e n a a 2 2 3 3 / m a x x 2 2 3 3 / 4 7 5 . t s
-#EXTINF: -1 group-title="Sport", Bein Max 1 HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
-#EXTINF: -1 group-title="Sport", Bein Max 2 HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43853
-#EXTINF: -1 group-title="Sport", Bein Max 3 HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43854
-#EXTINF: -1 group-title="Sport", Bein Max 4 HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43855
-#EXTINF: -1 group-title="Sport", Bein Sport HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/331
-#EXTINF: -1 group-title="Sport", Bein Sport HD 1
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/322
-#EXTINF: -1 group-title="Sport", Bein Sport HD 10
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/321
-#EXTINF: -1 group-title="Sport", Bein Sport HD 2
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/320
-#EXTINF: -1 group-title="Sport", Bein Sport HD 3
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/319
-#EXTINF: -1 group-title="Sport", Bein Sport HD 4
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/318
-#EXTINF: -1 group-title="Sport", Bein Sport HD 5
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/317
-#EXTINF: -1 group-title="Sport", Bein Sport HD 6
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/316
-#EXTINF: -1 group-title="Sport", Bein Sport HD 7
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/315
-#EXTINF: -1 group-title="Sport", Bein Sport HD 8
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/314
-#EXTINF: -1 group-title="Sport", Bein Sport HD 9
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/313
-#EXTINF: -1 group-title="Sport", Bein Sport HD11 EN
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/330
-#EXTINF: -1 group-title="Sport", Bein Sport HD12 EN
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/329
-#EXTINF: -1 group-title="Sport", Bein Sport HD13
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/328
-#EXTINF: -1 group-title="Sport", Bein Sport HD14
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/327
-#EXTINF: -1 group-title="Sport", Bein Sport HD15
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/326
-#EXTINF: -1 group-title="Sport", Bein Sport HD16
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/325
-#EXTINF: -1 group-title="Sport", Bein Sport NBA HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/324
-#EXTINF: -1 group-title="Sport", Bein Sport News HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/323
-#EXTINF: -1 group-title="Sport", Bein Sports 1 Premium HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/76
-#EXTINF: -1 group-title="Sport", Bein Sports 2 Premium HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/75
-#EXTINF: -1 group-title="Sport", Bein Sports 3 Premium HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/74
-#EXTINF: -1 group-title="Sport", Bein Sports 4 Premium HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/73
-#EXTINF: -1 group-title="Sport", Bein Sports 5 Premium HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/72
-#EXTINF: -1 group-title="Sport", Bein Sports 6 Premium HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/71
-#EXTINF: -1 group-title="Sport", Bein Sports HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/572
-#EXTINF: -1 group-title="Sport", Bein Sports News
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/423
-#EXTINF: -1 group-title="Sport", [TUR] TRT 1 HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/715
-#EXTINF: -1 group-title="Sport", [TUR] SPORTS TV
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/720
-#EXTINF: -1 group-title="Sport", [TUR] TRT SPOR HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/707
